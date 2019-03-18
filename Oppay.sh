@@ -102,7 +102,7 @@ echo ""
 echo -e $bu "Pilih Sesuai Selera Anda :)" 
 echo -e $bu "ketik (TT) untuk cara guna/tutor  "
 read -p "====>" pil  ;
-figlet MR MBEST | lolcat
+figlet MR ONE | lolcat
 #phs shelpis
 
 case $pil in
